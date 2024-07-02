@@ -17,6 +17,13 @@ Full Stack developer<br><br>🌎Languages:<br>- Portuguese;<br>- English;<br><br
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 <br>
 <br>
+<h1>Texto em h1</h1>
+<h2>Texto em h2</h2>
+<h3>Texto em h3</h3>
+<h4>Texto em h4</h4>
+<h5>Texto em h5</h5>
+<h6>Texto em h6</h6>
+
 <h1> Back End:</h1>
 <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
