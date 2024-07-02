@@ -1,5 +1,14 @@
 # 💫 About Me:
-Full Stack developer<br><br>🌎Languages:<br>- Portuguese;<br>- English;<br><br>
+<h3>Full Stack developer</h3>
+<br>
+<br>
+🌎Languages:
+<br>
+🇧🇷 Portuguese;
+<br>
+🇺🇸 English;
+<br>
+<br>
 
 
 ## 🌐 Socials:
