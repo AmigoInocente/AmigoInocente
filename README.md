@@ -1,7 +1,6 @@
 # 💫 About Me:
 <h3>Full Stack developer</h3>
 <h4>🌎Languages: </h4>
-<br>
 - Portuguese;
 <br>
 - English;
@@ -10,8 +9,7 @@
 
 
 ## 🌐 Socials:
-<br>
-<h3>Nickname do Discord:</h3> alisso_
+<h4>Nickname do Discord:</h4> alisso_
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amigo_inocente)
