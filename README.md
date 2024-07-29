@@ -1,6 +1,5 @@
 # 💫 About Me:
 <h3>Full Stack developer</h3>
-<br>
 <h4>🌎Languages: </h4>
 <br>
 - Portuguese;
@@ -14,7 +13,8 @@
 <br>
 <h3>Nickname do Discord:</h3> alisso_
 <br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amigo_inocente) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amigo_inocente)
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-guilherme-8a132a271/)
 
