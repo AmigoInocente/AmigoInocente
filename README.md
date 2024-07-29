@@ -8,15 +8,15 @@
 <br>
 
 
-## 🌐 Socials:
-<h4>Nickname do Discord:</h4> alisso_
+## 🌐 Redes sociais:
+<h4>Nickname do Discord: alisso_</h4>
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amigo_inocente)
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-guilherme-8a132a271/)
 
-# 💻 Tech Stack:
+# 💻 Habilidades de programação:
 
 <h2> Front End:</h2>
 <br>
@@ -39,13 +39,9 @@
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmigoInocente&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmigoInocente&theme=dark&hide_border=true)<br/>
+# 📊 Informações gerais sobre meu perfil:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmigoInocente&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AmigoInocente&limit=5&theme=dracula&combine_all_yearly_contributions=true)
