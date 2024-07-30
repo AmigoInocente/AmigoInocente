@@ -1,5 +1,5 @@
 # 🚩 Sobre mim:
-<h3>Full Stack developer</h3>
+<h3>Desenvover Full Stack</h3>
 <h4>🌎Languages: </h4>
 - Portuguese;
 <br>
@@ -10,7 +10,6 @@
 
 ## 🌐 Redes sociais:
 <h4>Nickname do Discord: alisso_</h4>
-<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amigo_inocente)
 <br>
@@ -43,7 +42,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmigoInocente&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
+### 🔝 Top repositórios contribuídos
 ![](https://github-contributor-stats.vercel.app/api?username=AmigoInocente&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
