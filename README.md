@@ -36,7 +36,6 @@
 <h2> Bancos de Dados:</h2>
 <br>
 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 # 📊 Informações gerais sobre meu perfil:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmigoInocente&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
