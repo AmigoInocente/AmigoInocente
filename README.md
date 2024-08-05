@@ -1,5 +1,5 @@
 # 🚩 Sobre mim:
-<h3>Desenvover Full Stack</h3>
+<h3>Desenvovedor Full Stack</h3>
 <h4>🌎Languages: </h4>
 - Portuguese;
 <br>
